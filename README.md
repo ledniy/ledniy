@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Image of nyan cat](https://art.pixilart.com/4b680819d6447f3.gif)
+
 <!--
 **ledniy/ledniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
